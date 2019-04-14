@@ -15,6 +15,7 @@ Em respeito a você que chegou aqui em busca de um site de classificados, estamo
 * [Imóveis em Natal](http://imoveisemnatal.com.br/?utm_source=classificados.oqtdb.com)
 
 **IMPORTANTE:** Não temos nenhuma ligação com os sites acima, são apenas sugestões. Não nos responsabilizamos pelo conteúdo publicado por eles.
+
 ___
 
 Esta página está hospedada no Github, caso queira contribuir com a lista de sites acima, basta enviar um Pull Request para [este repositório](https://github.com/ClassificadosOQTDB/site).

@@ -12,7 +12,7 @@ Em respeito a você que chegou aqui em busca de um site de classificados, estamo
 * [Classificados Tribuna do Norte](http://www.tribunadonorte.com.br/classificados?utm_source=classificados.oqtdb.com)
 * [Webmotors](https://www.webmotors.com.br/carros/rn?utm_source=classificados.oqtdb.com)
 * [Viva Real](https://www.vivareal.com.br/venda/rio-grande-do-norte/natal/?utm_source=classificados.oqtdb.com)
-* [Imóveis em Natal](http://imoveisemnatal.com.br/)
+* [Imóveis em Natal](http://imoveisemnatal.com.br/?utm_source=classificados.oqtdb.com)
 
 **IMPORTANTE:** Não temos nenhuma ligação com os sites acima, são apenas sugestões. Não nos responsabilizamos pelo conteúdo publicado por eles.
 ___

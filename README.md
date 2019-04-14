@@ -1,9 +1,8 @@
 ![OQTDB](https://img.oquetemdebom.com.br/logo-oqtdb-login.png)
 
 ## Decidimos parar por aqui
-Obrigado pelo interesse em navegar pelo nosso site. Infelizmente, decidimos por finalizar as atividades do OQTDB.
 
-Foram mais de 10 anos de muita dedicação para trazer o melhor site de classificados de Natal, mas, de uns anos para cá, por motivos diversos, deixamos de dar manutenção no site e a qualidade que você tanto estava acostumado deixou de existir.
+Foram mais de 10 anos de muita dedicação para trazer o melhor site de classificados de Natal, mas, de uns anos para cá, por motivos diversos, deixamos de dar manutenção no site e a qualidade que você tanto estava acostumado deixou de existir, por isso decidimos parar por aqui.
 
 ### Sites alternativos
 Em respeito a você que chegou aqui em busca de um site de classificados, estamos sugerindo algumas alternativas para que você possa seguir negociando seus produtos com pessoas de Natal/RN. Continue sua navegação pelos sites abaixo:
